@@ -132,13 +132,13 @@ Use the backtick to refer to a `variable` within a sentence.
 ### Ordered List
 
 1. First item
-2. Second item with some `code` in it
+2. Second item
 3. Third item
 
 ### Unordered List
 
 * List item
-* Another item with some `code` in it
+* Another item
 * And another item
 
 ### Nested list

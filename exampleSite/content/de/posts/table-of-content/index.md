@@ -1,14 +1,14 @@
 ---
-title: Table of content
-date: 2023-05-02
-description: Setup table of content in Hugo blog awesome theme
+title: Inhaltsverzeichnis
+date: 2024-03-04
+description: Konfiguration des Inhaltsverzeichnis im Theme 'Hugo Blog Awesome' 
 ---
 
-## Table of content
+## Inhaltsverzeichnis
 
-This theme supports displaying table of content (ToC) in blog posts.
+Dieses Theme unterstützt die Anzeige eines Inhaltsverzeichnisses (IVZ) für Blog Posts.
 
-## Parameters
+## Parameter
 
 You can manage a ToC with two parameters:
 - global `toc` parameter;
@@ -62,7 +62,7 @@ Notice: `.Params.toc` in the post will override `.Site.Params.toc`. After these 
     ---
     ```
 
-## Open table of content
+## Inhaltsverzeichnis aufklappen
 
 By default, ToC is closed. To open it by default, set parameter `tocOpen` to `true` in `hugo.toml`.
 
